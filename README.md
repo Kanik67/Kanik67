@@ -9,11 +9,11 @@
     <strong>Learning cybersecurity by building practical projects.</strong>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&height=40&lines=CYBERSECURITY;WEB+DEVELOPER;BCA+STUDENT;SECURITY+LEARNER;PROJECT+BUILDER" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=CYBERSECURITY;WEB+DEVELOPER;BCA+STUDENT;SECURITY+LEARNER;PROJECT+BUILDER" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=32&duration=2600&pause=600&color=00C853&center=true&vCenter=true&width=750&height=65&lines=%5B+CYBERSECURITY+%5D;%5B+WEB+DEVELOPER+%5D;%5B+BCA+STUDENT+%5D;%5B+SECURITY+LEARNER+%5D;%5B+PROJECT+BUILDER+%5D"
+    alt="Cybersecurity Typing Animation"
+  />
 </p>
 
 ---
