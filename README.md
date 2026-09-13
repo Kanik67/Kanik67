@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/badge/GitHub-Kanik67-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&label=ADD+LINK" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&label=ADD+LINK" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
   <a href="mailto:" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ADD+EMAIL-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00FF00?style=for-the-badge" alt="Portfolio" />
@@ -132,7 +132,7 @@ A comprehensive browser-based educational cybersecurity project for analyzing pa
 - 🌐 Browser-Based Cryptography
 - ⚡ Built with React + TypeScript
 
-**Live Demo:** https://cybershieldanalyzer.netlify.app/
+**Live Demo:** [https://cybershieldanalyzer.netlify.app/](https://cybershieldanalyzer.netlify.app/)
 
 **Purpose:** An educational tool designed to help users understand password security, entropy, and the importance of strong password practices.
 
@@ -227,7 +227,7 @@ All projects on this profile are created for **educational purposes only**. They
 ---
 
 <p align="center">
-  <strong style="font-size: 18px;">Learn. Build. Secure.</strong>
+  <strong>Learn. Build. Secure.</strong>
 </p>
 
 <p align="center">
