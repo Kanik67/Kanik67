@@ -116,7 +116,7 @@ I'm a passionate BCA student with a strong focus on **Cybersecurity** and **Web 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
----
+
 
 ## 🔐 Cybersecurity Focus
 
