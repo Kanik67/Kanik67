@@ -50,17 +50,44 @@
 const kanik = {
     name: "Kanik Sarkar",
     education: "BCA Student",
-    focus: ["Cybersecurity", "Web Development"],
-    interests: [
+
+    focus: [
         "Cybersecurity",
-        "Web Security",
-        "Cryptography",
-        "Web Development",
-        "Security Projects"
+        "Web Development"
     ],
+
+    skills: [
+        "Cybersecurity Fundamentals",
+        "Web Security",
+        "Password Security",
+        "Phishing Awareness",
+        "Network Security",
+        "Web/URL Analysis"
+    ],
+
+    technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Git & GitHub"
+    ],
+
+    currentlyLearning: [
+        "Networking",
+        "Nmap",
+        "Web Pentesting",
+        "Kali Linux",
+        "Linux & Security Tools"
+    ],
+
+    projects: [
+        "CyberShield Analyzer",
+        "Phish//Trace"
+    ],
+
     philosophy: "Learn by building, improve by experimenting."
 };
-```
 
 I'm a passionate BCA student with a strong focus on **Cybersecurity** and **Web Development**. I believe in learning through hands-on projects and believe that the best way to understand security is to build secure applications. My goal is to become a skilled cybersecurity professional and contribute to making the digital world safer.
 
