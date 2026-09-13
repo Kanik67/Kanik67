@@ -45,53 +45,12 @@ My goal is to develop strong cybersecurity fundamentals, improve my technical sk
 
 ```javascript
 const kanik = {
-    name: "Kanik Sarkar",
-    education: "BCA Student",
-
-    focus: [
-        "Cybersecurity",
-        "Web Development"
-    ],
-
-    skills: [
-        "Cybersecurity Fundamentals",
-        "Password Security",
-        "Web / URL Analysis",
-        "Phishing Awareness",
-        "Network Security"
-    ],
-
-    technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "Git",
-        "GitHub"
-    ],
-
-    securityTools: [
-        "Kali Linux",
-        "Nmap",
-        "Metasploit",
-        "Brute-Force Testing"
-    ],
-
-    currentlyLearning: [
-        "Networking",
-        "Web Pentesting",
-        "Linux",
-        "Security Tools"
-    ],
-
-    projects: [
-        "CyberShield Analyzer",
-        "Phish//Trace"
-    ],
-
-    philosophy: "Learn by building, improve by experimenting."
+  identity: "BCA Student | Cybersecurity Coder",
+  mission: "Learn. Code. Secure. Repeat.",
+  stack: "HTML • CSS • JavaScript • Python • Linux",
+  build: "CyberShield Analyzer • Phish//Trace",
+  motto: "Every bug is a lesson. Every project is progress."
 };
-```
 
 ---
 
