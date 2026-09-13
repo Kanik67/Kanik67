@@ -89,6 +89,8 @@ const kanik = {
     philosophy: "Learn by building, improve by experimenting."
 };
 
+---
+
 I'm a passionate BCA student with a strong focus on **Cybersecurity** and **Web Development**. I believe in learning through hands-on projects and believe that the best way to understand security is to build secure applications. My goal is to become a skilled cybersecurity professional and contribute to making the digital world safer.
 
 ---
