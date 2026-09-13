@@ -20,7 +20,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Kanik67" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Kanik67-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
