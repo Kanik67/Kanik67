@@ -4,13 +4,9 @@
 
 ### BCA Student • Cybersecurity • Web Development • Security Learner
 
-<p>
-  <strong>Learning cybersecurity by building practical projects.</strong>
-</p>
+<strong>Learning cybersecurity by building practical projects.</strong>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00C853&center=true&vCenter=true&width=700&height=60&lines=%5BCYBERSECURITY%5D;%5BWEB+DEVELOPER%5D;%5BSECURITY+LEARNER%5D;%5BPROJECT+BUILDER%5D" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00C853&center=true&vCenter=true&width=700&height=60&lines=%5BCYBERSECURITY%5D;%5BWEB+DEVELOPER%5D;%5BSECURITY+LEARNER%5D;%5BPROJECT+BUILDER%5D" alt="Typing Animation" />
 
 <p>
   <a href="https://github.com/Kanik67">
@@ -27,9 +23,7 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Kanik67&style=flat-square&color=00C853" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kanik67&style=flat-square&color=00C853" alt="Profile Views"/>
 
 </div>
 
@@ -48,15 +42,16 @@ const kanik = {
   identity: "BCA Student | Cybersecurity Coder",
   mission: "Learn. Code. Secure. Repeat.",
   stack: "HTML • CSS • JavaScript • Python • Linux",
-  build: "CyberShield Analyzer • Phish//Trace",
+  build: ["CyberShield Analyzer", "Phish//Trace"],
   motto: "Every bug is a lesson. Every project is progress."
 };
+```
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
+**Bachelor of Computer Applications (BCA)**
 Focused on Cybersecurity and Web Development.
 
 ---
@@ -109,13 +104,13 @@ Focused on Cybersecurity and Web Development.
 
 My current cybersecurity learning focuses on:
 
-- 🔑 **Password Security** — password strength, entropy, hashing, and secure password practices
-- 🌐 **Web Security** — understanding common web security concepts and defensive practices
-- 🎣 **Phishing Awareness** — identifying suspicious URLs and common phishing indicators
-- 🔍 **Web / URL Analysis** — analyzing URLs and security-related patterns
-- 🖥️ **Network Security** — learning networking and network scanning fundamentals
-- 🐧 **Linux & Kali Linux** — learning Linux commands and security tools
-- 🧪 **Security Testing** — exploring tools such as Nmap and Metasploit in authorized environments
+* 🔑 **Password Security** — password strength, entropy, hashing, and secure password practices
+* 🌐 **Web Security** — understanding common web security concepts and defensive practices
+* 🎣 **Phishing Awareness** — identifying suspicious URLs and common phishing indicators
+* 🔍 **Web / URL Analysis** — analyzing URLs and security-related patterns
+* 🖥️ **Network Security** — learning networking and network scanning fundamentals
+* 🐧 **Linux & Kali Linux** — learning Linux commands and security tools
+* 🧪 **Security Testing** — exploring tools such as Nmap and Metasploit in authorized environments
 
 ---
 
@@ -127,16 +122,15 @@ My current cybersecurity learning focuses on:
 
 It helps users understand password strength, entropy, security patterns, hashing, and secure random generation through an interactive web interface.
 
-#### Key Features
-
-- 🔐 Password strength analysis
-- 📊 Password entropy analysis
-- 🔍 Pattern and dictionary-based checks
-- ⏱️ Educational crack-time estimation
-- 🔑 Cryptographic hashing
-- 🎲 Secure random generation
-- 🌐 Browser-based cryptography
-- ⚡ React + TypeScript
+**Key Features**
+* 🔐 Password strength analysis
+* 📊 Password entropy analysis
+* 🔍 Pattern and dictionary-based checks
+* ⏱️ Educational crack-time estimation
+* 🔑 Cryptographic hashing
+* 🎲 Secure random generation
+* 🌐 Browser-based cryptography
+* ⚡ React + TypeScript
 
 **Status:** 🟢 Live
 
@@ -156,13 +150,12 @@ It helps users understand password strength, entropy, security patterns, hashing
 
 The project is designed to help users understand common phishing indicators and basic web security concepts.
 
-#### Key Features
-
-- 🔍 URL analysis
-- 🎣 Phishing detection concepts
-- 🛡️ Threat awareness
-- 🌐 Web security learning
-- 📊 Security-focused analysis
+**Key Features**
+* 🔍 URL analysis
+* 🎣 Phishing detection concepts
+* 🛡️ Threat awareness
+* 🌐 Web security learning
+* 📊 Security-focused analysis
 
 **Status:** 🟢 Live
 
@@ -204,29 +197,30 @@ The project is designed to help users understand common phishing indicators and 
 
 ## 🎯 Goals
 
-- 🔹 Build practical cybersecurity projects
-- 🔹 Strengthen networking and web security fundamentals
-- 🔹 Improve Linux and security tool knowledge
-- 🔹 Learn ethical web penetration testing
-- 🔹 Develop secure web applications
-- 🔹 Contribute to cybersecurity and open-source projects
-- 🔹 Pursue relevant cybersecurity certifications
-- 🔹 Build a professional career in cybersecurity
+* 🔹 Build practical cybersecurity projects
+* 🔹 Strengthen networking and web security fundamentals
+* 🔹 Improve Linux and security tool knowledge
+* 🔹 Learn ethical web penetration testing
+* 🔹 Develop secure web applications
+* 🔹 Contribute to cybersecurity and open-source projects
+* 🔹 Pursue relevant cybersecurity certifications
+* 🔹 Build a professional career in cybersecurity
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanik67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanik67&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanik67&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanik67&theme=dark&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanik67&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanik67&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -242,23 +236,18 @@ I support responsible and ethical use of cybersecurity knowledge. Security testi
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Kanik67">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kanik-sarkar-8172b4279">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/kanikkk4u_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:kaniksarkarsarkar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <a href="https://github.com/Kanik67">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kanik-sarkar-8172b4279">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kanikkk4u_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kaniksarkarsarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -267,7 +256,7 @@ I support responsible and ethical use of cybersecurity knowledge. Security testi
 
 ### 🔐 Learn • Build • Secure
 
-**Kanik Sarkar**  
+**Kanik Sarkar**
 **BCA • Cybersecurity • Web Development**
 
 © 2026 Kanik Sarkar
