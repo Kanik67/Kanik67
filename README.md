@@ -77,28 +77,45 @@ I'm a passionate BCA student with a strong focus on **Cybersecurity** and **Web 
 
 ## 🛠️ Technical Skills
 
-### 🔐 Cybersecurity
-- Cybersecurity Fundamentals
-- Password Security
-- Password Entropy
-- Cryptography
-- Hashing
-- Phishing Awareness
-- URL Analysis
-- Web Security
+<h2>🛠️ Technical Skills</h2>
 
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
+<h3>🛡️ Cybersecurity</h3>
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Netlify
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00BFFF" alt="Cybersecurity Fundamentals"/>
+  <img src="https://img.shields.io/badge/Password%20Security-0D1117?style=for-the-badge&logo=1password&logoColor=00BFFF" alt="Password Security"/>
+  <img src="https://img.shields.io/badge/Web%20%2F%20URL%20Analysis-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="Web URL Analysis"/>
+  <img src="https://img.shields.io/badge/Phishing%20Awareness-0D1117?style=for-the-badge&logo=protonmail&logoColor=00BFFF" alt="Phishing Awareness"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Brute--Force%20Testing-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Brute Force Testing"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
 
+<h3>🌐 Web Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<h3>🐍 Programming</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Basic"/>
+</p>
+
+<h3>🧰 Tools & Technologies</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
 ---
 
 ## 🔐 Cybersecurity Focus
