@@ -24,15 +24,15 @@
   <a href="https://github.com/Kanik67" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Kanik67-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/kanik-sarkar-8172b4279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/kanikkk4u_?stkn=Z25oZzRzOHNjNTZk" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+ <a href="mailto:kaniksarkarsarkar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00FF00?style=for-the-badge" alt="Portfolio" />
   </a>
