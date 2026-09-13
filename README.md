@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=CYBERSECURITY;WEB+DEVELOPER;BCA+STUDENT;SECURITY+LEARNER;PROJECT+BUILDER" alt="Typing SVG" />
-</p>
-
 <div align="center">
   <h1>👋 Hi, I'm Kanik Sarkar</h1>
   <p><strong>Cybersecurity Enthusiast | Web Developer | BCA Student</strong></p>
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=CYBERSECURITY;WEB+DEVELOPER;BCA+STUDENT;SECURITY+LEARNER;PROJECT+BUILDER" alt="Typing SVG" />
+</p>
 
 ---
 
