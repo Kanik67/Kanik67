@@ -210,43 +210,51 @@ The project is designed to help users understand common phishing indicators and 
 
 <!-- ==================== GitHub Statistics ==================== -->
 
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kanik67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=C9D1D9&cache_seconds=1800"
-    alt="GitHub Stats"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanik67&theme=github_dark"
+    alt="GitHub Profile Statistics"
+    width="97%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanik67&theme=github_dark"
+    alt="GitHub Statistics"
+    width="48%"
   />
 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanik67&theme=github_dark"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kanik67&theme=github_dark"
+    alt="Most Used Languages"
+    width="48%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanik67&theme=github_dark&utcOffset=5.5"
+    alt="Productive Time"
+    width="48%"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Kanik67&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853"
-    alt="GitHub Streak"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanik67&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&cache_seconds=1800"
-    alt="Top Languages"
-    width="50%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanik67&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&area_color=00C853"
-    alt="GitHub Activity Graph"
-    width="97%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Kanik67&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"
-    alt="GitHub Trophies"
-    width="97%"
+    alt="GitHub Contribution Streak"
+    width="70%"
   />
 </p>
 
@@ -257,7 +265,7 @@ The project is designed to help users understand common phishing indicators and 
   />
 </p>
 
-<!-- ==================== End GitHub Statistics ==================== -->
+<!-- ==================== END GITHUB STATISTICS ==================== -->
 
 ---
 
