@@ -208,8 +208,6 @@ The project is designed to help users understand common phishing indicators and 
 
 ---
 
-<!-- ==================== GitHub Statistics ==================== -->
-
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
 <h2>📊 GitHub Statistics</h2>
@@ -224,49 +222,13 @@ The project is designed to help users understand common phishing indicators and 
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanik67&theme=github_dark"
-    alt="GitHub Statistics"
-    width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanik67&theme=github_dark"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kanik67&theme=github_dark"
-    alt="Most Used Languages"
-    width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanik67&theme=github_dark&utcOffset=5.5"
-    alt="Productive Time"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com/?user=Kanik67&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853"
     alt="GitHub Contribution Streak"
     width="70%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Kanik67&label=Profile%20Views&color=00C853&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 <!-- ==================== END GITHUB STATISTICS ==================== -->
-
 ---
 
 ## ⚠️ Cybersecurity Disclaimer
