@@ -208,36 +208,56 @@ The project is designed to help users understand common phishing indicators and 
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ==================== GitHub Statistics ==================== -->
+
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanik67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanik67&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" width="49%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kanik67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=C9D1D9&cache_seconds=1800"
+    alt="GitHub Stats"
+    width="49%"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Kanik67&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853"
+    alt="GitHub Streak"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanik67&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanik67&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&cache_seconds=1800"
+    alt="Top Languages"
+    width="50%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanik67&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C853&line=00C853&point=ffffff&area=true&area_color=00C853" alt="Activity Graph" width="97%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanik67&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&area_color=00C853"
+    alt="GitHub Activity Graph"
+    width="97%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanik67&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Kanik67&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"
+    alt="GitHub Trophies"
+    width="97%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-visitor-counter.pages.dev/?username=Kanik67&label=Profile+Views&color=00c853&style=flat" alt="Visitor Count"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Kanik67&label=Profile%20Views&color=00C853&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanik67&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanik67&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
+<!-- ==================== End GitHub Statistics ==================== -->
 
 ---
 
