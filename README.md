@@ -117,6 +117,7 @@ I'm a passionate BCA student with a strong focus on **Cybersecurity** and **Web 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
+---
 
 ## 🔐 Cybersecurity Focus
 
@@ -144,44 +145,90 @@ I create educational cybersecurity projects and web applications that demonstrat
 
 ## 📌 Featured Projects
 
-### 🛡️ CyberShield Analyzer
+### 🛡️ CyberShield Analyzer — Password Security Analysis
 
-A comprehensive browser-based educational cybersecurity project for analyzing password strength and security characteristics.
+A browser-based cybersecurity learning project designed to analyze password strength and help users understand important password security concepts.
 
-**Features:**
-- 🔍 Password Strength Analysis
-- 📊 Entropy Calculation and Analysis
-- 🔤 Pattern and Dictionary Checks
-- ⏱️ Educational Crack-Time Estimation
-- 🔐 Cryptographic Hashing (MD5, SHA-1, SHA-256)
-- 🎲 Secure Random Generation
-- 🌐 Browser-Based Cryptography
-- ⚡ Built with React + TypeScript
+**Focus:**
+- 🔍 Password strength analysis
+- 📊 Entropy calculation and analysis
+- 🔤 Pattern and dictionary checks
+- ⏱️ Educational crack-time estimation
+- 🔐 Cryptographic hashing — MD5, SHA-1, SHA-256
+- 🎲 Secure random generation
+- 🌐 Browser-based cryptography
+- ⚡ React + TypeScript
 
-**Live Demo:** [https://cybershieldanalyzer.netlify.app/](https://cybershieldanalyzer.netlify.app/)
+**Status:** 🟢 **LIVE**
 
-**Purpose:** An educational tool designed to help users understand password security, entropy, and the importance of strong password practices.
+<p>
+  <a href="https://cybershieldanalyzer.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-CyberShield%20Analyzer-00BFFF?style=for-the-badge" alt="CyberShield Analyzer Live Demo"/>
+  </a>
+</p>
+
+**Purpose:** An educational cybersecurity tool created to help users understand password strength, entropy, hashing, and the importance of strong password practices.
+
 
 ---
 
-### 🎣 Phish//Trace
+### 🎣 Phish//Trace — Phishing URL Intelligence
 
-A phishing URL analysis and security learning project.
+A browser-based cybersecurity learning project designed to analyze suspicious URLs and help users understand common phishing indicators and threats.
 
-**Purpose:** An educational project focused on helping users identify and understand phishing techniques and malicious URLs.
+**Focus:**
+- 🔍 URL analysis
+- 🎣 Phishing detection concepts
+- 🛡️ Threat awareness
+- 🌐 Web security learning
 
-**Status:** [COMING SOON]
+**Status:** 🟢 **LIVE**
+
+<p>
+  <a href="https://phish-trace-phishing-url-intelligen.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Phish%2F%2FTrace-00BFFF?style=for-the-badge" alt="Phish Trace Live Demo"/>
+  </a>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Cryptography
-- Web Application Security (OWASP Top 10)
-- Network Security
-- Security Protocol Implementation
-- Advanced React Patterns
+### 🌐 Networking & Network Security
 
+<p>
+  <img src="https://img.shields.io/badge/Networking-90CAF9?style=for-the-badge&logo=cisco&logoColor=black" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Network%20Security-81D4FA?style=for-the-badge&logo=fortinet&logoColor=black" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Nmap-A5D6A7?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Network%20Scanning-80CBC4?style=for-the-badge&logo=wireshark&logoColor=black" alt="Network Scanning"/>
+</p>
+
+### 🛡️ Web & Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Security-80DEEA?style=for-the-badge&logo=owasp&logoColor=black" alt="Web Security"/>
+  <img src="https://img.shields.io/badge/Web%20Pentesting-9FA8DA?style=for-the-badge&logo=burpsuite&logoColor=black" alt="Web Pentesting"/>
+  <img src="https://img.shields.io/badge/Phishing%20Analysis-CE93D8?style=for-the-badge&logo=protonmail&logoColor=black" alt="Phishing Analysis"/>
+  <img src="https://img.shields.io/badge/URL%20Analysis-B39DDB?style=for-the-badge&logo=googlechrome&logoColor=black" alt="URL Analysis"/>
+</p>
+
+### 🐧 Linux & Security Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-90CAF9?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Terminal-81D4FA?style=for-the-badge&logo=gnubash&logoColor=black" alt="Kali Terminal"/>
+  <img src="https://img.shields.io/badge/Linux%20Basics-A5D6A7?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Basics"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-B0BEC5?style=for-the-badge&logo=linux&logoColor=black" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/Linux%20Command%20Line-80CBC4?style=for-the-badge&logo=gnubash&logoColor=black" alt="Linux Command Line"/>
+</p>
+
+### 🔐 Security Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Brute--Force%20Testing-FFCC80?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Brute Force Testing"/>
+  <img src="https://img.shields.io/badge/Metasploit-90CAF9?style=for-the-badge&logo=metasploit&logoColor=black" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Reconnaissance-C5CAE9?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Reconnaissance"/>
+</p>
 ---
 
 ## 🎯 Goals
